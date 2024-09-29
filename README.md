@@ -12,6 +12,7 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue%20?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](https://www.linkedin.com/in/cpnguyen05/)
+[![Handshake Badge](https://img.shields.io/badge/Handshake-blue?style=flat&logo=Handshake&logoColor=black&labelColor=green&color=green)](https://app.joinhandshake.com/profiles/52712241)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=b30000&color=b30000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](mailto:cpnguyen0630@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&labelColor=blue&color=blue&link=cpnguyen0630%40gmail.com)](https://www.facebook.com/phuc.nguyencuong.79)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C&link=cpnguyen0630%40gmail.com)](https://www.instagram.com/ncp_ucb.05/)
