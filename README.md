@@ -11,8 +11,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-cpnguyen-blue%20?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](https://www.linkedin.com/in/cpnguyen05/)
 [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-cpnguyen-red?style=flat-square&logo=Gmail&logoColor=white&labelColor=b30000&color=b30000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](cpnguyen0630@gmail.com)
-![Static Badge](https://img.shields.io/badge/-cpnguyen-blue?style=flat-square&logo=Facebook&logoColor=white&labelColor=blue&color=blue&link=cpnguyen0630%40gmail.com)
-</div>
+[![Static Badge](https://img.shields.io/badge/-cpnguyen-blue?style=flat-square&logo=Facebook&logoColor=white&labelColor=blue&color=blue&link=cpnguyen0630%40gmail.com)]
+(cpnguyen0630@gmail.com)</div>
 <br>
 
 ### Open to new experiences. Let today be better than yesterday💪 <br />
