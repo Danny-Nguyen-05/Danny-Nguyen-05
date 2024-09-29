@@ -6,6 +6,9 @@
 <h1 align="center">
   Hi, I'm Cuong Phuc Nguyen or CP for short!.👋
 </h1>
+<h3 align="center">
+  Reach me at
+</h3>
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue%20?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](https://www.linkedin.com/in/cpnguyen05/)
@@ -38,7 +41,6 @@ class Person:
         self.Interested = "AI, machine learning, deep learning🤖"
       
 ```
-📨 Reach me at cpnguyen0630@gmail.com<br />
 
 ### Languages and Tools: <br />
 <p align="left">  
