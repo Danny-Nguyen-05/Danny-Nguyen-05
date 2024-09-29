@@ -50,8 +50,8 @@ class Person:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://en.vetores.org/d/visual-studio-code.svg" alt="visual studio code" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language%20for%20storing,%20manipulating%20and" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?size=48" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language%20for%20storing,%20manipulating%20and" target="_blank" rel="noreferrer"> <img src="https://github.com/OfficeDev.png?size=40" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/products-apps-services#:~:text=Apps%20and%20services.%20Create%20your%20best%20work%20on%20all%20your?msockid=2a703d7338f267cc179e295e39216624" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/products-apps-services#:~:text=Apps%20and%20services.%20Create%20your%20best%20work%20on%20all%20your?msockid=2a703d7338f267cc179e295e39216624" target="_blank" rel="noreferrer"> <img src="https://github.com/OfficeDev.png?size=40" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/html/#:~:text=HTML%20is%20the%20standard%20markup%20language%20for%20Web%20pages.%20With" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="40" height="40"/> </a> 
   
   </p>
  
