@@ -2,7 +2,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkYnh4aHY5a2Nkb2JkYWc5MjJvbTAxNHlmcTgxeTJzOHZvbndpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="WELCOME" width="600" height="300" >
 </div>
 
-<img align="right" alt="Coding" width="200" height="1000" src="https://wallpapercave.com/wp/wp12547760.jpg">
 <h1 align="center">
   Hi, I'm Cuong Phuc Nguyen or CP for short!.👋
 </h1>
@@ -10,7 +9,7 @@
   Reach me at
 </h3>
 <div align="center">
-  
+    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue%20?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](https://www.linkedin.com/in/cpnguyen05/)
 [![Handshake Badge](https://img.shields.io/badge/Handshake-blue?style=flat&logo=Handshake&logoColor=black&labelColor=green&color=green)](https://app.joinhandshake.com/profiles/52712241)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=b30000&color=b30000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](mailto:cpnguyen0630@gmail.com)
@@ -18,11 +17,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C&link=cpnguyen0630%40gmail.com)](https://www.instagram.com/ncp_ucb.05/)
 </div>
 
+<h3 align="left">
+  Open to new experiences. Let today be better than yesterday💪. <br />
+  Seeking 2025 Co-op/Internship.
+</h3>
 
-<br>
 
-### Open to new experiences. Let today be better than yesterday💪 <br />
-### 
+
+
 About me: <br />
 ``` python
 class Person:
