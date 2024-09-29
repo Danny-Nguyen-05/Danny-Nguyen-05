@@ -35,7 +35,7 @@ class Person:
         self.learning = "Deep Learning Specialization certificate"
 
     def Interest(self):
-        self.Interested = "AI, machine learning, deep learning🖥️"
+        self.Interested = "AI, machine learning, deep learning🤖"
       
 ```
 📨 Reach me at cpnguyen0630@gmail.com<br />
