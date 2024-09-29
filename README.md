@@ -50,5 +50,7 @@ class Person:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://en.vetores.org/d/visual-studio-code.svg" alt="visual studio code" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhju2GNCwnw8AjK-QoOuSCwKvdyOYciky5fuc5-tKeyPw3uuN2WOxglzCXWQYkq9YKzpQpkyyQEqQ8inWc5IiIlh638NARoJWqHeoZnyCokPSbZgeMEEplKS3OopydRCY0z_tjif9dpgEo/s320/Logo+HTML5.JPG" width="80" height="40"/> </a> 
+  
   </p>
  
