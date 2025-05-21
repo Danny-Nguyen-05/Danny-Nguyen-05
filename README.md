@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Cuong Phuc Nguyen or CP for short!.👋
+  Hi, I'm Cuong Phuc Nguyen or Danny for short!.👋
 </h1>
 <h3 align="center">
   Reach me at
