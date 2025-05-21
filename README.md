@@ -10,11 +10,9 @@
 </h3>
 <div align="center">
     
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue%20?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](https://www.linkedin.com/in/cpnguyen05/)
-[![Handshake Badge](https://img.shields.io/badge/Handshake-blue?style=flat&logo=Handshake&logoColor=black&labelColor=green&color=green)](https://app.joinhandshake.com/profiles/52712241)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=b30000&color=b30000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcpnguyen05%2F)](mailto:cpnguyen0630@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&labelColor=blue&color=blue&link=cpnguyen0630%40gmail.com)](https://www.facebook.com/phuc.nguyencuong.79)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C&link=cpnguyen0630%40gmail.com)](https://www.instagram.com/ncp_ucb.05/)
+[![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dannynguyen05/)
+[![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:cpnguyen0630@gmail.com)
+[![Instagram Badge](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ncp_ucb.05/)
 </div>
 
 <h3 align="left">
@@ -47,7 +45,7 @@ class Person:
 
 ### Languages and Tools: <br />
 <p align="left">  
-  <a href="https://www.geeksforgeeks.org/c-programming-examples/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<!--   <a href="https://www.geeksforgeeks.org/c-programming-examples/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href = "https://www.java.com/en/" target="_blank" rel"noreferrer"> <img src ="https://github.com/user-attachments/assets/7a616a86-b838-45fd-b2c9-fd640212eda7" alt="java" width="50 height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -58,7 +56,13 @@ class Person:
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/327354ba-389b-489d-b1b3-c26ae4d9a102" alt="intellij" width="50" height="40"/> </a> 
   <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language%20for%20storing,%20manipulating%20and" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?size=48" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/products-apps-services#:~:text=Apps%20and%20services.%20Create%20your%20best%20work%20on%20all%20your?msockid=2a703d7338f267cc179e295e39216624" target="_blank" rel="noreferrer"> <img src="https://github.com/OfficeDev.png?size=40" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/html/#:~:text=HTML%20is%20the%20standard%20markup%20language%20for%20Web%20pages.%20With" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/html/#:~:text=HTML%20is%20the%20standard%20markup%20language%20for%20Web%20pages.%20With" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="40" height="40"/> </a>  -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp"/> </a> 
+  <a href="https://www.geeksforgeeks.org/c-programming-examples/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python"/> </a> 
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git"/> </a> 
+<!--   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,mysql,arduino,css,html,figma,idea,vscode,,linux,postman,react,spring" /> -->
   
   </p>
  
