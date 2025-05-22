@@ -62,6 +62,9 @@ class Person:
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=java"/>
 </a>
+<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=linux"/>
+</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=css"/>
