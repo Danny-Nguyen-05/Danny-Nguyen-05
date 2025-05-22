@@ -6,8 +6,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=2000&color=0CDAF7&background=9CEBFD00&center=true&width=900&height=60&lines=Hi%2C+I'm+Cuong+Phuc+Nguyen+or+Danny+for+short!+%F0%9F%91%8B;Let's+explore+my+GitHub+%F0%9F%94%8D" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=500&duration=17000&pause=2000&color=F7F7F7&background=9CEBFD00&center=true&repeat=false&width=500&height=35&lines=Reach+me+at+%F0%9F%92%A1" alt="Typing SVG" /></a>
-</h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=500&duration=2000&pause=2000&color=F7F7F7&background=9CEBFD00&center=true&repeat=false&width=500&height=35&lines=Reach+me+at+%F0%9F%92%A1" alt="Typing SVG" /></a>
+</h32
 <div align="center">
     
 [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dannynguyen05/)
