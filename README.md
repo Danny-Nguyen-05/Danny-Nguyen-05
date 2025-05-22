@@ -46,14 +46,66 @@ class Person:
 
 ### Languages and Tools: <br />
 <p align="left">  
-<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp"/> </a> 
-  <a href="https://www.geeksforgeeks.org/c-programming-examples/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python"/> </a> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git"/> </a> 
-  <a href="https://www.postman.com/downloads/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql"/> </a>  -->
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,css,html,git,vscode,idea,mysql,arduino,figma,postman,react,spring" />
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=cpp"/>
+</a>
+
+<a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=c"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=python"/>
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=java"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=idea"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=arduino"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=postman"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=spring"/>
+</a>
   
-  </p>
+</p>
  
