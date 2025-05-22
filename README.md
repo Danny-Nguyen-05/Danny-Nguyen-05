@@ -13,9 +13,10 @@
 [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dannynguyen05/)
 [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:cpnguyen0630@gmail.com)
 [![Instagram Badge](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ncp_ucb.05/)
+[![Discord Badge](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/698191362368995449)
 </div>
 
-<h3 align="left">
+<h3 align="center">
   Open to new experiences. Let today be better than yesterday💪. <br />
   Seeking 2025 Co-op/Internship.
 </h3>
@@ -23,7 +24,7 @@
 
 
 
-About me: <br />
+### About me: <br />
 ``` python
 class Person:
     def __init__(self):
@@ -45,24 +46,14 @@ class Person:
 
 ### Languages and Tools: <br />
 <p align="left">  
-<!--   <a href="https://www.geeksforgeeks.org/c-programming-examples/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href = "https://www.java.com/en/" target="_blank" rel"noreferrer"> <img src ="https://github.com/user-attachments/assets/7a616a86-b838-45fd-b2c9-fd640212eda7" alt="java" width="50 height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://en.vetores.org/d/visual-studio-code.svg" alt="visual studio code" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/327354ba-389b-489d-b1b3-c26ae4d9a102" alt="intellij" width="50" height="40"/> </a> 
-  <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language%20for%20storing,%20manipulating%20and" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?size=48" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/products-apps-services#:~:text=Apps%20and%20services.%20Create%20your%20best%20work%20on%20all%20your?msockid=2a703d7338f267cc179e295e39216624" target="_blank" rel="noreferrer"> <img src="https://github.com/OfficeDev.png?size=40" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/html/#:~:text=HTML%20is%20the%20standard%20markup%20language%20for%20Web%20pages.%20With" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="40" height="40"/> </a>  -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp"/> </a> 
+<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp"/> </a> 
   <a href="https://www.geeksforgeeks.org/c-programming-examples/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python"/> </a> 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git"/> </a> 
-<!--   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,mysql,arduino,css,html,figma,idea,vscode,,linux,postman,react,spring" /> -->
+  <a href="https://www.postman.com/downloads/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql"/> </a>  -->
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,css,html,git,vscode,idea,mysql,arduino,figma,postman,react,spring" />
   
   </p>
  
