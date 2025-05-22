@@ -28,7 +28,7 @@
 ``` python
 class Person:
     def __init__(self):
-        self.name = "CP"
+        self.name = "Danny"
         self.education = "University of Illinois Chicago🏢"
         self.hobbies = "Swimming🏊‍♂️, Watching Sport🏈, Playing Chess♟️" 
 
