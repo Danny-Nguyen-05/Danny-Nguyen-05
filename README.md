@@ -40,7 +40,7 @@ class Person:
         self.learning = "Deep Learning Specialization certificate"
 
     def Interest(self):
-        self.Interest = "Cybersecurity, Network🤖"
+        self.Interest = "Cybersecurity, Network and Software"
       
 ```
 
