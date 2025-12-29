@@ -37,7 +37,6 @@ class Person:
 
     def Currently(self):
         self.pursuing = "Bachelor of Computer Science"
-        self.learning = "Deep Learning Specialization certificate"
 
     def Interest(self):
         self.Interest = "Cybersecurity, Network and Software"
