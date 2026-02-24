@@ -18,7 +18,7 @@
 
 <h3 align="center">
   Open to new experiences. Let today be better than yesterday💪. <br />
-  Seeking 2025 Co-op/Internship.
+  Seeking 2026 Co-op/Internship.
 </h3>
 
 
@@ -44,70 +44,9 @@ class Person:
 ```
 
 ### Languages and Tools: <br />
-<p align="left">  
+<p align="left">
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=cpp"/>
-</a>
-
-<a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=c"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=python"/>
-</a>
-
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=java"/>
-</a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=linux"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=css"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=html"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=git"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=idea"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=arduino"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=figma"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=postman"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=react"/>
-</a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=spring"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,kotlin,swift,c,cpp,go,typescript,javascript,html,css,react,spring,vue,postgres,mysql,docker,azure,gcp&perline=10)](https://skillicons.dev)
   
 </p>
  
