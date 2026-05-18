@@ -17,8 +17,7 @@
 </div>
 
 <h3 align="center">
-  Open to new experiences. Let today be better than yesterday💪. <br />
-  Seeking 2026 Co-op/Internship.
+  Let today be better than yesterday💪. <br />
 </h3>
 
 
@@ -36,10 +35,10 @@ class Person:
         self.location = "Chicago, IL🏠"
 
     def Currently(self):
-        self.pursuing = "Bachelor of Computer Science"
+        self.pursuing = "Bachelor of Science in Computer Science"
 
     def Interest(self):
-        self.Interest = "Cybersecurity, Network and Software"
+        self.Interest = "AI, LLM, Software"
       
 ```
 
